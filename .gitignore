@@ -1,0 +1,53 @@
+# Secrets and API Keys
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+
+# Google Sheets / Google Apps Script
+appsscript.json
+clasp.json
+.clasp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Node (if using npm dependencies)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Custom API keys or credentials
+my_api_key.txt
+credentials/
+my_settings.js
+
+# Editor backups
+*.backup
+*.bak
+
+# Build artifacts
+dist/
+build/
+*.min.js
